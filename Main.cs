@@ -60,11 +60,11 @@ public class SGD285_1
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"),
            new UserQuote("Aliyah Day", "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty. -Maya Angelou"),
            new UserQuote("Perry Courter", "Hell of a thing killing a man, you take away all he has, and everything he is ever gunna be - Clint Eastwood" ), /* A clasic quote from a clasic man - Adam Seymour */
-           new UserQuote("Thomas Robertson", "I come to trade and to learn. - Barnabas Sackett"),
-           new UserQuote("This is a Test", "Something witty is supposed to go here = Me"),
+           new UserQuote("Thomas Robertson", "I come to trade and to learn. - Barnabas Sackett"), 
+           new UserQuote("This is a Test", "Something witty is supposed to go here = Me"), /* This is a funny quote, Great job! */
 	       new UserQuote("Adam Seymour", "Lift itself is only a vision, a dream. nothing exists except empty space, and you. And you are but a thought - Mark Twain Mysterious stranger"),
            new UserQuote("Teresa Widmer", "Terry, you of all people should know, in your hotel, there's always someone watching. -Tess Ocean"),
-           new UserQuote("Jabril Washington","the more things change, the more they stay the same. -General shepard"),
+           new UserQuote("Jabril Washington", "the more things change the more they stay the same. -General Shepard"),
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
