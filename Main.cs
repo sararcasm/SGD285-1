@@ -65,7 +65,7 @@ public class SGD285_1
 	       new UserQuote("Adam Seymour", "Lift itself is only a vision, a dream. nothing exists except empty space, and you. And you are but a thought - Mark Twain Mysterious stranger"),
            new UserQuote("Teresa Widmer", "Terry, you of all people should know, in your hotel, there's always someone watching. -Tess Ocean"),
            new UserQuote("Jabril Washington", "The more things change, the more they stay the same. -General shepard"),
-	   new UserQuote("Karen Lopez", "It does not matter how slowly you go so long as you do not stop. -Confucius"),
+	   new UserQuote("Karen Lopez", "It does not matter how slowly you go so long as you do not stop. - Confucius"),
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
